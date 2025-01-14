@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    height: 100vh;
+}
+div {
+    height: 170px;
+    width: 500px;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
